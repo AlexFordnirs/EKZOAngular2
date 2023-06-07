@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+  background-color: #24292e;
+  width: 100%;
+  overflow: hidden;
+
+
+}
+h1,h2{
+  color: white;
+  justify-content: center;
+  display: flex;
+}
+button{
+  margin: 5px;
+}
